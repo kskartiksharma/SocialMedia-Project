@@ -1,0 +1,10 @@
+.paraSize{
+font-size: 50px;
+color:aliceblue;
+font-family: cursive;
+}
+.Settingbody{
+    background-color:rgb(80, 136, 182);
+    height: 100vh;
+    padding: 80px;
+}

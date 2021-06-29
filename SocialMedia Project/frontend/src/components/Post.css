@@ -1,0 +1,32 @@
+.postbody{
+    margin: 30px auto;
+    padding: 10px;
+    width: 100%; 
+}
+.mainbody{
+    height: 500px;
+     width: 100%;
+}
+
+
+.heart{
+    /* font-size: 30px; */
+     margin-right: 60px;
+    
+    background-color: white;
+    /* border: 0px; */
+    height: 50px;
+    width: 50px;
+    color: red;
+
+}
+.comment{
+    /* font-size: 30px; */
+    /* margin-right: 60px;
+    margin-left: 0px;; */
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    color: red;
+
+}

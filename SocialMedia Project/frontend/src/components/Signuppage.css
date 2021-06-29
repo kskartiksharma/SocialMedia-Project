@@ -1,0 +1,44 @@
+.signupbody{
+    background-color: rgb(80, 136, 182);
+    height: 550px;
+    justify-content: center;
+    text-align: center;
+    padding: 80px;
+
+}
+.heading{
+    color: white;
+    font-weight: bold;
+}
+.box{
+    background-color: #3b5780;
+    border-radius: 10px;
+    padding-top: 80px;
+    margin: auto ;
+    width: 400px;
+    height: 400px;
+    padding-right: 18px;
+    
+}
+
+.button{
+    width: 400px;
+    text-align: center;
+}
+.form-label{
+    text-align: left;
+}
+.form-control{
+/* width: 300px; */
+/* padding: 10px; */
+margin: 10px;
+}
+
+.form2{
+    width: 380px;
+    padding: 10px;
+    
+}
+.white{
+    color:aliceblue
+}
